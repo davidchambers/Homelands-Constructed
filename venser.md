@@ -1,7 +1,7 @@
 Venser
 ======
 
-Creator: David Chambers  
+Creator: [David Chambers][1]  
 Played by: Chris Chambers
 
 
@@ -21,3 +21,6 @@ Played by: Chris Chambers
     4 Memory Lapse
     4 Forget
     4 Serrated Arrows
+
+
+[1]: https://twitter.com/davidchambers
